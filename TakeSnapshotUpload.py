@@ -28,7 +28,7 @@ def take_snapshot():
 
 
 def upload_file(img_name):
-    access_token = "CG1ywBjE8c8AAAAAAAAAAc95GCnPHn4_6bIcZHy7ty3rThV0TZGd5gfTGn9-54kn"
+    access_token = "---the dropbox access token here ---"
     file =img_name
     file_from = file
     file_to="/test/"+(img_name)
